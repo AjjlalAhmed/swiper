@@ -46,6 +46,7 @@ onMounted(() => {
   height: 300px;
   position: relative;
   margin: 2rem auto;
+  overflow: hidden;
 }
 
 .swiper-slide {
