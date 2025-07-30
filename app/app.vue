@@ -7,13 +7,12 @@
         <div class="swiper-slide">Slide 3</div>
         <div class="swiper-slide">Slide 4</div>
         <div class="swiper-slide">Slide 5</div>
-        <div class="swiper-slide">Slide 6</div>
-        <div class="swiper-slide">Slide 7</div>
-        <div class="swiper-slide">Slide 6</div>
-        <div class="swiper-slide">Slide 7</div>
-        <div class="swiper-slide">Slide 8</div>
-        <div class="swiper-slide">Slide 9</div>
-        <div class="swiper-slide">Slide 10</div>
+          <div class="swiper-slide">Slide 1</div>
+        <div class="swiper-slide">Slide 2</div>
+        <div class="swiper-slide">Slide 3</div>
+        <div class="swiper-slide">Slide 4</div>
+        <div class="swiper-slide">Slide 5</div>
+        
       </div>
 
       <!-- Navigation buttons -->
@@ -49,6 +48,7 @@ onMounted(() => {
   height: 300px;
   margin: 2rem auto;
   overflow: hidden;
+  position: relative;
 }
 
 .swiper-slide {
